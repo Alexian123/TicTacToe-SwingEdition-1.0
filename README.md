@@ -1,5 +1,5 @@
 # TicTacToe-SwingEdition-1.0
-A fully featured TicTacToe game made with the Java Swing library, complete with a single player mode and a 2 player mode.
+A feature rich TicTacToe game made using the Java Swing library, complete with a single player mode and a 2 player mode.
 
 The single player mode has 3 difficulties you can choose from in the settings menu.
 There is also an option to change the game language from English to Romanian.
