@@ -14,3 +14,5 @@ The 'X' and '0' textures are made by me, with the exception of the background pa
 Installation:
   - Windows: simply download and run the installer.
   - Linux/UNIX: either build from source or only download the 'Resources' folder and the jar file found in 'out/artifacts/*.jar'
+
+I think it goes without saying that the game requires at least JRE8 installed on your computer.
