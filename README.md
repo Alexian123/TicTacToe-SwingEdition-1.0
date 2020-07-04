@@ -11,8 +11,4 @@ If you feel like the game is not running properly be sure to check the logs, or 
 The sound FX used do not belong to me. They were uploaded to YouTube on various chanels.
 The 'X' and '0' textures are made by me, with the exception of the background paper texture, which I downloaded from the internet.
 
-Installation:
-  - Windows: simply download and run the installer.
-  - Linux/UNIX: either build from source or only download the 'Resources' folder and the jar file found in 'out/artifacts/*.jar'
-
 I think it goes without saying that the game requires at least JRE8 installed on your computer.
